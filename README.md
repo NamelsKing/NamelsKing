@@ -1,9 +1,9 @@
 ## Hi, there
-My name is Dmitriy, currently working as Team Lead/Software Engineer at EVO company
+My name is Dmitriy, currently working as Dev Lead/Software Engineer at EVO company
 
-I live in Kiev, Ukrain
+I live in Poznań, Poland
 
-I am passionate about servers, client side, libraries, blockchain and different protocols
+I am passionate about servers, libraries, blockchain and different protocols
 
 ## Contact Me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-medvinskiy-45199410a)
