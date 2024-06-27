@@ -6,7 +6,7 @@ I live in Poznań, Poland
 I am passionate about servers, libraries, blockchain and different protocols
 
 ## Contact Me:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-medvinskiy-45199410a)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-medvinskyi-45199410a)
 &nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/NamelessKing#5479)
 &nbsp;
