@@ -1,5 +1,5 @@
 ## Hi, there
-My name is Dmitriy, currently working as Dev Lead/Software Engineer at EVO company
+My name is Dmitriy, im Back/Software Engineer
 
 I live in Poznań, Poland
 
