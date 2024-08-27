@@ -1,5 +1,5 @@
 ## Hi, there
-My name is Dmitriy, im Back/Software Engineer
+My name is Dmytro, im Back/Software Engineer
 
 I live in Poznań, Poland
 
