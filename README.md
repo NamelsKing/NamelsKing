@@ -25,9 +25,6 @@ I am passionate about servers, libraries, blockchain and different protocols
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Hyperbee](https://img.shields.io/badge/Hyperbee-6f42c1?style=for-the-badge)
 
-#### Caching
-![Redis](https://img.shields.io/badge/Redis-%234285F4.svg?style=for-the-badge&logo=redis&logoColor=white) 
-
 ### Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
