@@ -1,8 +1,6 @@
 ## Hi, there
 My name is Dmytro, im Back/Software Engineer
 
-I live in Poznań, Poland
-
 I am passionate about servers, libraries, blockchain and different protocols
 
 ## Contact Me:
