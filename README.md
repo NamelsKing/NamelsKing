@@ -17,8 +17,7 @@ I am passionate about **servers, distributed systems, AI tooling, blockchain, lo
 Even though I can work across the stack, my main interest is building the systems behind the product: APIs, services, infrastructure, automation, and the logic that makes everything work.
 
 **Core focus**
-
-- Backend engineering; Software architecture; Libraries, automation, and infrastructure; Generative AI; Blockchain and protocol engineering; Servers, APIs, and distributed systems;
+Backend engineering; Software architecture; Libraries, automation, and infrastructure; Generative AI; Blockchain and protocol engineering; Servers, APIs, and distributed systems;
 
 ---
 
