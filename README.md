@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Backend+%2F+Software+Engineer;AI%2C+Protocols+and+Systems;Servers%2C+Libraries+and+Blockchain" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=NamelsKing&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
-
 </div>
 
 ---
