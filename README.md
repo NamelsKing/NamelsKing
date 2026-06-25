@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563eb,100:7c3aed&section=header&text=Dmytro&fontColor=ffffff&fontSize=56&fontAlignY=35&desc=Backend%20%2F%20Software%20Engineer&descSize=18&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563eb,100:7c3aed&section=header&text=Hi,%20I'm%20Dmytro&fontColor=ffffff&fontSize=52&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Backend+%2F+Software+Engineer;AI%2C+Protocols+and+Systems;Servers%2C+Libraries+and+Blockchain" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Software+Engineer+%2F+Backend;AI%2C+Protocols+and+Systems;Servers%2C+Libraries+and+Blockchain" alt="Typing SVG" />
 
 </div>
 
