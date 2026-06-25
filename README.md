@@ -1,59 +1,81 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563eb,100:7c3aed&text=NamelsKing&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58" />
+<div align="center">
+
+# Hi, I'm Dmytro
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Backend+%2F+Software+Engineer;AI%2C+Protocols+and+Systems;Servers%2C+Libraries+and+Blockchain" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I build modern web applications, backend systems, and developer-focused tools with a strong focus on clean architecture, performance, and practical user experience.
+I'm a **Backend / Software Engineer** focused on building reliable systems, developer tools, libraries, and protocol-driven software.
 
-I enjoy working across the stack, from polished frontend interfaces to reliable APIs, automation, infrastructure, and product-minded engineering.
+I am passionate about **servers, distributed systems, AI tooling, blockchain, low-level protocols, and clean backend architecture**.
+
+Even though I can work across the stack, my main interest is building the systems behind the product: APIs, services, infrastructure, automation, and the logic that makes everything work.
 
 **Core focus**
 
-- Full stack web development
-- Backend architecture
-- API design
-- Cloud and DevOps workflows
-- Automation and tooling
-- Clean, maintainable software
+- Backend engineering
+- Software architecture
+- AI-assisted developer tools
+- Blockchain and protocol engineering
+- Servers, APIs, and distributed systems
+- Libraries, automation, and infrastructure
 
 ---
 
-## 🛠 Tech Stack
+## Contact Me
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,cpp,fastapi,postgres,mongodb,redis,docker,kubernetes,aws,gcp,git,github,githubactions,linux,nginx,terraform,html,css,tailwind,bootstrap" />
-</p>
-
----
-
-## 🚀 What I Like Building
-
-- Scalable web platforms
-- Backend services and libraries
-- Automation tools that save time
-- Cloud-native applications
-- Clean developer workflows
-- Products that are simple, fast, and useful
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/NamelsKing">
-    <img src="https://skillicons.dev/icons?i=github" width="48" />
+  <a href="https://www.linkedin.com/in/dmytro-medvinskyi-45199410a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+  <a href="https://discordapp.com/users/NamelessKing#5479">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## Things I Code With
 
-I like turning complex ideas into reliable, simple, and useful software.
+### Languages & Runtime
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7c3aed,100:2563eb&section=footer" />
+![Node.js](https://img.shields.io/badge/nodejs-%23323330.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
+### Databases & Storage
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Hyperbee](https://img.shields.io/badge/Hyperbee-6f42c1?style=for-the-badge)
+
+### Tools & Infrastructure
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+## What I Like Building
+
+- Backend services and APIs
+- Protocol implementations
+- Blockchain infrastructure and tooling
+- AI-powered developer workflows
+- Libraries and reusable engineering tools
+- Systems that are simple, fast, and reliable
+
+---
+
+## Moto
+
+Not how. But why and when!
