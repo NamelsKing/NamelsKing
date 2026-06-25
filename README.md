@@ -18,12 +18,7 @@ Even though I can work across the stack, my main interest is building the system
 
 **Core focus**
 
-- Backend engineering
-- Software architecture
-- AI-assisted developer tools
-- Blockchain and protocol engineering
-- Servers, APIs, and distributed systems
-- Libraries, automation, and infrastructure
+- Backend engineering; Software architecture; Libraries, automation, and infrastructure; Generative AI; Blockchain and protocol engineering; Servers, APIs, and distributed systems;
 
 ---
 
@@ -32,8 +27,6 @@ Even though I can work across the stack, my main interest is building the system
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,python,solidity,postgres,mysql,mongodb,redis,docker,kubernetes,githubactions,git,github,linux,nginx" />
 </p>
-
-![Hyperbee](https://img.shields.io/badge/Hyperbee-6f42c1?style=for-the-badge)
 
 ---
 
