@@ -24,7 +24,7 @@ Backend engineering; Software architecture; Libraries, automation, and infrastru
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,python,solidity,postgres,mysql,mongodb,redis,graphql,fastapi,express,nestjs,docker,kubernetes,githubactions,linux,nginx,terraform,ansible,prometheus,grafana,git,github,bash&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,python,solidity,postgres,mysql,mongodb,redis,graphql,fastapi,express,nestjs,docker,kubernetes,githubactions,linux,nginx,terraform,ansible,prometheus,grafana,git,github,bash" />
 </p>
 
 ---
